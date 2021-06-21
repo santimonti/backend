@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "topic": "sports",
+      "question": "how many championships Michael Jordan won?",
+      "options": ["5", "6", "7"],
+      "answer": "2"
+    },
+    {
+      "topic": "sports",
+      "question": "The New York Yankees has?",
+      "options": ["27 World Series championships", "29 World Series championships", "30 World Series championships"],
+      "answer": "1"
+    },
+    {
+      "topic": "sports",
+      "question": "Who was Ayrton Senna?",
+      "options": ["Brazilian F1 racing driver", "Brazilian motorcycle road racer", "Italian motorcycle road racer"],
+      "answer": "1"
+    },
+
+    {
+      "topic": "sports",
+      "question": "The team with more championships at the FA Premier League is?",
+      "options": ["Rangers Football Club (18)", "Liverpool (18)", "Manchester United (13)"],
+      "answer": "3"
+    },
+    {
+      "topic": "music",
+      "question": "The female artist with more Latin Grammys won is?",
+      "options": ["Natalia Lafourcade (10)", "Celia Cruz (16)", "Shakira (13)"],
+      "answer": "3"
+    },
+    {
+      "topic": "music",
+      "question": "The highest grossing album of 2017 in US?",
+      "options": ["Taylor Swift, Reputation", "Ed Sheeran, ÷ (Divide)", "Bruno Mars, 24K Magic"],
+      "answer": "3"
+    },
+    {
+      "topic": "music",
+      "question": "the highest music viewed video on youtube 2017?",
+      "options": [
+        "See You Again - Wiz Khalifa featuring Charlie Puth",
+        "Despacito - Luis Fonsi",
+        "Shape of You - Ed Sheeran"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "topic": "nodejs",
+      "question": "What is the NPM?",
+      "options": [
+        "Nuget Package Manager",
+        "Package manager for the JavaScript programming language",
+        "Package manager for Node.js"
+      ],
+      "answer": "1"
+    },
+    {
+      "topic": "nodejs",
+      "question": "Does nodejs run on windows?",
+      "options": ["Yes", "No", "Yes, but only nodejs 12.6 and above"],
+      "answer": "1"
+    },
+    {
+      "topic": "nodejs",
+      "question": "What is ‘callback’ in Node.js?",
+      "options": [
+        "Just an internal method in any NodeJs application",
+        "Function used to deal with multiple requests made to the server",
+        "An internal module in NodeJs"
+      ],
+      "answer": "2"
+    },
+
+    {
+      "topic": "nodejs",
+      "question": "What is express?",
+      "options": ["An external module", "An internal module", "A NodeJs I/O command"],
+      "answer": "1"
+    },
+    {
+      "topic": "nodejs",
+      "question": "How can you delete a file in Node using fs?",
+      "options": ["fs.remove(path, callback)", "fs.unlink(path, callback)", "fs.delete(path, callback)"],
+      "answer": "2"
+    },
+    {
+      "topic": "nodejs",
+      "question": "In order to fire events you can do:",
+      "options": [
+        "emitter.on(eventName, listener)",
+        "emitter.listeners(eventName)",
+        "emitter.emit(eventName[, ...args])"
+      ],
+      "answer": "3"
+    },
+    {
+      "topic": "nodejs",
+      "question": "How to uninstall a dependency using npm?",
+      "options": ["npm install -u dependency-name", "npm uninstall dependency-name", "npm unistall -d dependency-name"],
+      "answer": "2"
+    },
+    {
+      "topic": "nodejs",
+      "question": "What is the Package.json?",
+      "options": [
+        "File that holds various metadata relevant to the project. This file is used to give information to npm that allows it to identify the project as well as handle the project's dependencies",
+        "File automatically generated for any operations where npm modifies either the node_modules tree, or package.json. It describes the exact tree that was generated",
+        "File present in the node_modules folder and define all the dependencies for a nodejs app"
+      ],
+      "answer": "1"
+    },
+    {
+      "topic": "nodejs",
+      "question": "How can you remove a directory?",
+      "options": ["fs.rmdir(path, callback)", "fs.deletedir(path, callback)", "fs.deldirectory(path, callback)"],
+      "answer": "1"
+    },
+    {
+      "topic": "nodejs",
+      "question": "To accommodate the single-threaded event loop, and handle asynchronous events Node.js uses the library?",
+      "options": ["Libuv", "V8Lib", "NodejsCore"],
+      "answer": "1"
+    }
+  ]
+}
